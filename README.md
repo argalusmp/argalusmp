@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Vidi Marpaung</h1>
-<h3 align="center">A passionate Web Developer From Indonesia</h3>
+<h3 align="center">A passionate Developer From Indonesia</h3>
 
 
 
