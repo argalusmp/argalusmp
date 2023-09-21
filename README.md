@@ -1,17 +1,15 @@
-### Hi there 👋
-
-
 <div align="center">
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card">
 </div>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <h1 align="center">Hi 👋, I'm Vidi Marpaung</h1>
-<h3 align="center">A passionate Developer From Indonesia</h3>
 
-
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=1000&vCenter=true&width=435&lines=A+Passionate+Developer+From+Indonesia++;Welcome+to+my+github" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="left">
 <a href="https://github.com/argalusmp">
