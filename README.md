@@ -1,4 +1,12 @@
 ### Hi there 👋
+
+
+<div align="center">
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <h1 align="center">Hi 👋, I'm Vidi Marpaung</h1>
 <h3 align="center">A passionate Developer From Indonesia</h3>
 
@@ -26,3 +34,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
