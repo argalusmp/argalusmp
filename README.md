@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=1000&vCenter=true&width=435&lines=A+Passionate+Developer+From+Indonesia++;Welcome+to+my+github" alt="Typing SVG" />
   </a>
   <div align="center">
-    <img src="https://github.com/argalusmp/argalusmp/blob/main/car-1803_512.gif">
+    <img src="https://github.com/argalusmp/argalusmp/blob/main/gif_car.gif">
   </div>
 </div>
 
