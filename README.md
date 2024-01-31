@@ -12,6 +12,21 @@
   <div align="center">
     <img src="https://github.com/argalusmp/argalusmp/blob/main/gif_car.gif">
   </div>
+
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/vidi-marpaung/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/vidiargalus/">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  </div>
+
+ <!-- Check profile views -->
+ <!-- <img src="https://komarev.com/ghpvc/?username=argalusmp&style=flat-square&color=blue" alt=""/> --->
+
+
+
 </div>
 
 
